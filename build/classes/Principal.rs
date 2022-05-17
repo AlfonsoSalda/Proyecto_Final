@@ -1,0 +1,10 @@
+main.java.Actividad2.Principal$7
+main.java.Actividad2.Principal$6
+main.java.Actividad2.Principal$5
+main.java.Actividad2.Principal$4
+main.java.Actividad2.Principal$3
+main.java.Actividad2.Principal$2
+main.java.Actividad2.Principal$1
+main.java.Actividad2.Principal
+main.java.Actividad2.Principal$9
+main.java.Actividad2.Principal$8
